@@ -18,3 +18,4 @@ echo "$pares valor(es) par(es)\n";
 echo "$impares valor(es) impar(es)\n";
 echo "$positivos valor(es) positivo(s)\n";
 echo "$negativos valor(es) negativo(s)\n";
+?>
