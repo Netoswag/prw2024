@@ -20,3 +20,4 @@ for ($i = 0; $i < $n; $i++) {
 foreach ($respostas as $resposta) {
     echo $resposta;
 }
+?>
