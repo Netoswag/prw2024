@@ -25,3 +25,4 @@ if ($A == $B && $A == $C && $B == $C)
     echo "TRIANGULO EQUILATERO\n";
 elseif ($A == $B || $B == $C || $A == $C)
     echo "TRIANGULO ISOSCELES\n";
+?>
