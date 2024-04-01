@@ -29,3 +29,4 @@ switch ($ddd) {
         echo "DDD nao cadastrado\n";
         break;
 }
+?>
