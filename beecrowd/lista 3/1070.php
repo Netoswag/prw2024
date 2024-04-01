@@ -9,3 +9,4 @@ while ($qtd_impar < 6) {
     }
     $i++;
 }
+?>
