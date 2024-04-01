@@ -9,3 +9,4 @@ if ($salario >= 0 && $salario <= 2000) {
 } elseif ($salario > 4500) {
     echo "R$ " . number_format((1000.00 * 0.08 + 0.18 * 1500 + 0.28 * ($salario - 4500)), 2, ".", "") . "\n";
 }
+?>
