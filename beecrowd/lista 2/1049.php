@@ -53,3 +53,4 @@ switch ($vertebrado) {
         break;
         break;
 }
+?>
