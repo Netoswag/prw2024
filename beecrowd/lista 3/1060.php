@@ -5,3 +5,4 @@ for($i=0; $i<6;$i++){
         $positivos++;
 }
 echo "$positivos valores positivos\n";
+?>
