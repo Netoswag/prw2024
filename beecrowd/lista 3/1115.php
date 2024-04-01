@@ -13,3 +13,4 @@ while (!$parar) {
     elseif ($x > 0 && $y < 0)
         echo "quarto\n";
 }
+?>
