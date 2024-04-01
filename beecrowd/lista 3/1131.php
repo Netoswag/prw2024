@@ -28,3 +28,4 @@ elseif ($vitorias_gremio > $vitorias_inter)
     echo "Inter venceu mais\n";
 else
     echo "Inter venceu mais\n";
+?>
