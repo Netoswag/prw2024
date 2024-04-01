@@ -25,3 +25,4 @@ if ($salario > 0 && $salario <= 400.0) {
     $percentual = 4;
 }
 echo "Novo salario: " . number_format($novoSalrio, 2, ".", "") . "\nReajuste ganho: " . number_format($reajuste, 2, ".", "") . "\nEm percentual: $percentual %\n";
+?>
