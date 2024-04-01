@@ -30,3 +30,4 @@ if ($hInicio == $hTermino) {
     }
 }
 echo "O JOGO DUROU $horaDuracao HORA(S) E $minutosDuracao MINUTO(S)\n";
+?>
