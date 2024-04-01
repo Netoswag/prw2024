@@ -8,3 +8,4 @@ elseif ($hInicio > $htermino)
 else
     $horaDuracao = $htermino - $hInicio;
 echo "O JOGO DUROU $horaDuracao HORA(S)\n";
+?>
