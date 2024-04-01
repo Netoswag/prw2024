@@ -11,3 +11,4 @@ for ($i = 0; $i < $qtd; $i++) {
 }
 echo "$dentro in\n";
 echo "$fora out\n";
+?>
