@@ -38,3 +38,4 @@ switch ($mes) {
         echo "December\n";
         break;
 }
+?>
