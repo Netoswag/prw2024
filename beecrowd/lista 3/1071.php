@@ -9,3 +9,4 @@ while ($Y < $X) {
     $Y++;
 }
 echo $soma . "\n";
+?>
