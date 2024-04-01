@@ -11,3 +11,4 @@ for ($i = 0; $i < 6; $i++) {
 $media = $media / $positivos;
 echo "$positivos valores positivos\n";
 echo number_format($media, 1, ".", "") . "\n";
+?>
