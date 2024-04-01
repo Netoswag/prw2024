@@ -21,3 +21,4 @@ echo "Total de sapos: $qtd_sapos\n";
 echo "Percentual de coelhos: " . number_format((($qtd_coelhos / $qtd_cobaias) * 100), 2, '.', '') . " %\n";
 echo "Percentual de ratos: " . number_format((($qtd_ratos / $qtd_cobaias) * 100), 2, '.', '') . " %\n";
 echo "Percentual de sapos: " . number_format((($qtd_sapos / $qtd_cobaias) * 100), 2, '.', '') . " %\n";
+?>
