@@ -5,3 +5,4 @@ for ($i = 0; $i < 5; $i++) {
         $pares++;
 }
 echo "$pares valores pares\n";
+?>
