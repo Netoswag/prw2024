@@ -7,3 +7,4 @@ while (!$senha_correta) {
     } else
         echo "Senha Invalida\n";
 }
+?>
