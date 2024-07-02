@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    <div>
+        <form action="form.php" method="post">
+            <div>
+                <label for="nome">Velocidade Média do Veículo:</label>
+                <input type="number" step="0.01" name="vlmd" id="velocidade">
+            </div>
+            <div>
+                <label for="nome">Distância da Viagem:</label>
+                <input type="number" step="0.01" name="dv" id="distancia">
+            </div>
+            <div>
+                <label for="nome">Consumo Médio do Veículo:</label>
+                <input type="number" step="0.01" name="cmdv" id="consumo">
+            </div>
+            <div>
+                <button type="submit">enviar</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

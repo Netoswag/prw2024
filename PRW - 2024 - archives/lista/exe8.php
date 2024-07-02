@@ -1,0 +1,8 @@
+<?php
+    $menu = $_POST['menu'];
+
+    for($i=0;$i<=10;$i++){
+        $valor = $menu * $i;
+        echo "$menu x ",$i," = $valor<br>";
+    }
+?>

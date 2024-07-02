@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    <form action="exe2.php" method="post">
+        <div>
+            <label for="nome">Texto:</label>
+            <input type="text" name="texto" id="texto">
+        </div>
+        <div>
+            <label for="nome">Texto Elaborado:</label><br>
+            <textarea type="textarea" name="textela" id="textela"></textarea>
+        </div>
+        <div>
+            <label for="nome">Caixa de Seleção:<br>Você gosta de paçoca?<br></label>
+            <input type="checkbox" name="caixa" id="caixa" value="Sim">Sim
+            <input type="checkbox" name="caixa" id="caixa" value="Não">Não
+        </div>
+        <div>
+            <input type="radio" name="band-rock" value="beatles"/>The Beatles
+            <input type="radio" name="band-rock" value="led-zeppelin"/> Led Zeppelin
+            <input type="radio" name="band-rock" value="pink-floyd"/>Pink Floy
+        </div>
+        <div>
+            <select name = "menu" VALUE = "2" SIZE = "1">
+            <option>Pespi</option>
+            <option>Coca</option></select>
+        </div>
+        <div>
+            <button type="submit">enviar</button>
+        </div>
+    </form>
+</body>
+</html>
